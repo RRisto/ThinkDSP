@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511a105c-1c0b-4323-a76b-3d87682f11b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chap09_mine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chap09_mine.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chap11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chap11.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="511a105c-1c0b-4323-a76b-3d87682f11b5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/code/thinkdsp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="181">
-              <caret line="440" column="13" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="13" />
+              <caret line="868" column="15" selection-start-line="868" selection-start-column="8" selection-end-line="868" selection-end-column="15" />
               <folding>
                 <element signature="e#194#205#0" expanded="true" />
               </folding>
@@ -50,6 +46,7 @@
       <find>def plo</find>
       <find>segment</find>
       <find>spectrum</find>
+      <find>class Spe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,7 +63,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,16 +117,17 @@
       <workItem from="1587292289952" duration="5402000" />
       <workItem from="1587357143074" duration="10000" />
       <workItem from="1587389138760" duration="4409000" />
+      <workItem from="1587476862448" duration="2731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14242000" />
+    <option name="totallyTimeSpent" value="16973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,7 +181,7 @@
     <entry file="file://$PROJECT_DIR$/code/thinkdsp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
-          <caret line="440" column="13" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="13" />
+          <caret line="868" column="15" selection-start-line="868" selection-start-column="8" selection-end-line="868" selection-end-column="15" />
           <folding>
             <element signature="e#194#205#0" expanded="true" />
           </folding>
